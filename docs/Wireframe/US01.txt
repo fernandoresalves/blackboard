@@ -1,0 +1,105 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "Canvas",
+                    "zOrder": "0",
+                    "w": "493",
+                    "h": "196",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "149",
+                    "y": "118",
+                    "properties": {
+                        "borderColor": "6710886"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "TextInput",
+                    "zOrder": "1",
+                    "w": "462",
+                    "measuredW": "191",
+                    "measuredH": "30",
+                    "x": "165",
+                    "y": "146",
+                    "properties": {
+                        "state": "up",
+                        "text": "Digite o nome do quadro",
+                        "textColor": "6710886",
+                        "size": "16"
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "ComboBox",
+                    "zOrder": "2",
+                    "w": "246",
+                    "measuredW": "66",
+                    "measuredH": "27",
+                    "x": "165",
+                    "y": "192",
+                    "properties": {
+                        "text": "Time",
+                        "size": "16",
+                        "textColor": "6710886"
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "Button",
+                    "zOrder": "3",
+                    "w": "144",
+                    "h": "40",
+                    "measuredW": "61",
+                    "measuredH": "27",
+                    "x": "483",
+                    "y": "252",
+                    "properties": {
+                        "text": "Criar",
+                        "size": "16",
+                        "color": "5865130"
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "Canvas",
+                    "zOrder": "4",
+                    "w": "493",
+                    "h": "38",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "149",
+                    "y": "84",
+                    "properties": {
+                        "borderColor": "6710886",
+                        "color": "15843890"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Icon",
+                    "zOrder": "5",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "606",
+                    "y": "86",
+                    "properties": {
+                        "icon": {
+                            "ID": "times",
+                            "size": "medium"
+                        },
+                        "color": "16777215"
+                    }
+                }
+            ]
+        },
+        "mockupH": "230",
+        "mockupW": "493",
+        "measuredW": "642",
+        "measuredH": "314",
+        "version": "1.0"
+    }
+}
